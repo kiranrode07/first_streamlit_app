@@ -1,7 +1,5 @@
 import streamlit
 
-/home/appuser/venv/bin/python -m pip install --upgrade pip
-
 streamlit.title ('My parents new healthy dinner')
 
 streamlit.header ('Breakfast Menu')
